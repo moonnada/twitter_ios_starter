@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3506089925F387B8008BD796 /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3506089825F387B8008BD796 /* TweetCellTableViewCell.swift */; };
 		357FD88B25EE3DE50092587B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357FD88A25EE3DE50092587B /* LoginViewController.swift */; };
 		357FD88E25EE62410092587B /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357FD88D25EE62410092587B /* HomeTableViewController.swift */; };
 		35ADC5D425F34CC900239ACB /* TweetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35ADC5D325F34CC900239ACB /* TweetCell.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3506089825F387B8008BD796 /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCellTableViewCell.swift; sourceTree = "<group>"; };
 		357FD88A25EE3DE50092587B /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		357FD88D25EE62410092587B /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		35ADC5D325F34CC900239ACB /* TweetCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCell.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				35ADC5D325F34CC900239ACB /* TweetCell.swift */,
 				6EBCF52921DF07FC00451C03 /* Main.storyboard */,
 				357FD88A25EE3DE50092587B /* LoginViewController.swift */,
+				3506089825F387B8008BD796 /* TweetCellTableViewCell.swift */,
 				6EBCF54321E047A500451C03 /* TwitterAPICaller.swift */,
 				6EBCF52521DF07FC00451C03 /* AppDelegate.swift */,
 				357FD88D25EE62410092587B /* HomeTableViewController.swift */,
@@ -213,6 +216,7 @@
 				357FD88B25EE3DE50092587B /* LoginViewController.swift in Sources */,
 				35ADC5D425F34CC900239ACB /* TweetCell.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
+				3506089925F387B8008BD796 /* TweetCellTableViewCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
